@@ -5,3 +5,4 @@ Pensamento Computacional - 2 horas
 Lógica de Programação Essencial - 4 horas
 Introdução ao Git e ao GitHub - 5 horas
 Projetos ágeis com SCRUM - 2 horas
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progesso - 1 hora
