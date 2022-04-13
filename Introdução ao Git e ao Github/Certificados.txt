@@ -1,5 +1,3 @@
-# Certificados
-
 Boas-vindas ao Bootcamp Carrefour Web Developer - 1 hora
 Pensamento Computacional - 2 horas
 Lógica de Programação Essencial - 4 horas
