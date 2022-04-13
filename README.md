@@ -1,5 +1,3 @@
-# Desafio de projeto git/github
-Repositório criado para desafio do projeto
+# Atividade Git/GitHub
+Repositório criado para realização do desafio do projeto de Git e GitHub.
 
-## Links úteis
-[Sintaxe básica markedown](https://www.markdownguide.org/)
